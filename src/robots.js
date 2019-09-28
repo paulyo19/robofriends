@@ -47,4 +47,16 @@ export const robots = [
         username: 'Goat',
         email: 'barca@spain.tv'
     },
+    {
+        id: 9, 
+        name: 'Josh Glad',
+        username: 'Happy',
+        email: 'gilmore@myroom.com'
+    },
+    {
+        id: 10, 
+        name: 'Mary Kane',
+        username: 'T-bone',
+        email: 'sunshine@mars.net'
+    },
 ]
